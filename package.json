@@ -25,6 +25,6 @@
         }
     },
      "gameDependencies": {
-        "game-core": "v1.0.0"
+        "game-core": "v1.0.1"
     }
 }
